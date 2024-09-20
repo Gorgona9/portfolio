@@ -1,6 +1,6 @@
 # Portfolio page with scrollable 3D Animation using Three.js
 
-- [Scrollable Three.js Animation](https://fireship.io/snippets/threejs-scrollbar-animation) Snippet
+- Three.js practice to create personal page with some basic animations
 
 ## Usage
 
